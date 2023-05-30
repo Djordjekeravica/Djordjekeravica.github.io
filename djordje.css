@@ -1,0 +1,21 @@
+.naslov{
+color: coral;
+background-color: gray;
+}
+body{
+    background-color: #D1EEEE;
+}
+.Glavni{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.Drugi{
+    background-color: pink;
+    text-align: center;
+} 
+.slova{
+    font-style: italic
+}
+.slova{
+    font-weight: bolder;
+}
